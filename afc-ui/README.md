@@ -1,2 +1,21 @@
-# Advanced-Fermantation-Controller
-The Advanced Fermantation Controller (AFC) is a system to automatically control the wort temperature and density during fermentation and to check any parameter remotelly.
+# afc
+
+> This is the Vue.js project representing the UI of the Advanced Fermentation Controller.
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
