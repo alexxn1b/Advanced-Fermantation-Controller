@@ -1,0 +1,8 @@
+{ "status":0,
+  "temp1":23,
+  "temp2":22,
+  "target":20,
+  "sg":1071,
+  "heat": false,
+  "cold": false
+}

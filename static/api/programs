@@ -1,0 +1,16 @@
+{ 
+  "target": 0,
+  "schedules": [{
+    "id": 1, "name": "Default", "type": 0,
+    "schedule": [{"id":1, "target": 14, "hh": 24, "inc": 0.5}, {"id":2, "target": 8, "hh": 0, "inc": 0}, {"id":3, "target": 0, "hh": 0, "inc": 0}, {"id":4, "target": 0, "hh": 0, "inc": 0}, {"id":5, "target": 0, "hh": 0, "inc": 0} ]
+  },
+  {
+    "id": 2, "name": "", "type": 0,
+    "schedule": [{"id":1, "target": 0, "hh": 0, "inc": 0}, {"id":2, "target": 0, "hh": 0, "inc": 0}, {"id":3, "target": 0, "hh": 0, "inc": 0}, {"id":4, "target": 0, "hh": 0, "inc": 0}, {"id":5, "target": 0, "hh": 0, "inc": 0} ]
+  },
+  {
+    "id": 3, "name": "", "type": 0,
+    "schedule": [{"id":1, "target": 0, "hh": 0, "inc": 0}, {"id":2, "target": 0, "hh": 0, "inc": 0}, {"id":3, "target": 0, "hh": 0, "inc": 0}, {"id":4, "target": 0, "hh": 0, "inc": 0}, {"id":5, "target": 0, "hh": 0, "inc": 0} ]
+  }  
+  ]
+}
